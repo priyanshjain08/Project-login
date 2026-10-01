@@ -14,3 +14,5 @@ A simple authentication UI built with **HTML & CSS**, featuring login and regist
 ### Tech Used
 - HTML5
 - CSS3
+
+Site is live at https://priyanshjain08.github.io/Project-login/
